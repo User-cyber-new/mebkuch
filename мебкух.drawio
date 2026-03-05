@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0" pages="2">
+  <diagram name="Страница-1" id="i_ZguXAgqwOttJFGD5Cd">
+    <mxGraphModel dx="982" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0RLR1YZqyFvkZzD1c6Oz-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="API мир-света" vertex="1">
+          <mxGeometry height="150" width="150" x="290" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="0RLR1YZqyFvkZzD1c6Oz-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="BD" vertex="1">
+          <mxGeometry height="80" width="60" x="720" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="0RLR1YZqyFvkZzD1c6Oz-3" edge="1" parent="1" source="0RLR1YZqyFvkZzD1c6Oz-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.019;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;" target="0RLR1YZqyFvkZzD1c6Oz-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="-10" as="sourcePoint" />
+            <mxPoint x="500" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RLR1YZqyFvkZzD1c6Oz-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="наш сайт" vertex="1">
+          <mxGeometry height="180" width="180" x="190" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0RLR1YZqyFvkZzD1c6Oz-5" edge="1" parent="1" source="0RLR1YZqyFvkZzD1c6Oz-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="0RLR1YZqyFvkZzD1c6Oz-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="190" as="sourcePoint" />
+            <mxPoint x="500" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RLR1YZqyFvkZzD1c6Oz-6" parent="1" style="shape=tape;whiteSpace=wrap;html=1;" value="Можно ли получать json c мир-света" vertex="1">
+          <mxGeometry height="240" width="370" x="540" y="-40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JFRvAviRSa9mJWaiSsn1" name="Страница-2">
+    <mxGraphModel dx="1403" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-9" edge="1" parent="1" source="PMZll3zoZlBUGpTaZ6AZ-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="PMZll3zoZlBUGpTaZ6AZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="определнные размеры" vertex="1">
+          <mxGeometry height="110" width="150" x="190" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-7" edge="1" parent="1" source="PMZll3zoZlBUGpTaZ6AZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="PMZll3zoZlBUGpTaZ6AZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="кухни" vertex="1">
+          <mxGeometry height="150" width="150" x="520" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-5" edge="1" parent="1" source="PMZll3zoZlBUGpTaZ6AZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="PMZll3zoZlBUGpTaZ6AZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="готовые комплекты&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="90" x="440" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="кухни на заказ" vertex="1">
+          <mxGeometry height="80" width="80" x="740" y="-185" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-11" edge="1" parent="1" source="PMZll3zoZlBUGpTaZ6AZ-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="PMZll3zoZlBUGpTaZ6AZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="минимальная стоимость&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="660" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-13" edge="1" parent="1" source="PMZll3zoZlBUGpTaZ6AZ-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="PMZll3zoZlBUGpTaZ6AZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="описание" vertex="1">
+          <mxGeometry height="80" width="120" x="890" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-15" edge="1" parent="1" source="PMZll3zoZlBUGpTaZ6AZ-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="PMZll3zoZlBUGpTaZ6AZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="столешницы и стеновые панели&amp;nbsp;" vertex="1">
+          <mxGeometry height="120" width="170" x="920" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="мебель" vertex="1">
+          <mxGeometry height="100" width="100" x="370" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PMZll3zoZlBUGpTaZ6AZ-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="это реализовано уже&amp;nbsp;" vertex="1">
+          <mxGeometry height="120" width="180" x="950" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
