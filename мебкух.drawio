@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0" pages="2">
-  <diagram name="Страница-1" id="i_ZguXAgqwOttJFGD5Cd">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0" pages="4">
+  <diagram name="черновик" id="i_ZguXAgqwOttJFGD5Cd">
     <mxGraphModel dx="982" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -31,7 +31,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JFRvAviRSa9mJWaiSsn1" name="Страница-2">
+  <diagram id="JFRvAviRSa9mJWaiSsn1" name="обложка сайта">
     <mxGraphModel dx="1403" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -80,6 +80,28 @@
         </mxCell>
         <mxCell id="PMZll3zoZlBUGpTaZ6AZ-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="это реализовано уже&amp;nbsp;" vertex="1">
           <mxGeometry height="120" width="180" x="950" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ISDMMPGOZUEleO5I5R3X" name="таски">
+    <mxGraphModel dx="1382" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fm29VBXVV6P3UkPUasI1-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;БАЗА ДАННЫХ&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="-230" y="-120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fis0ezMkIcszEyXvuuN1" name="что сделал Тимур">
+    <mxGraphModel dx="1077" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fieUv0mDqDNdLR7qCnQT-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ФУНКЦИОНАЛ&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;1) на сайте можно в произвольном количестве добавлять категории, подкатегории и добавлять туда необходимые продукты&amp;nbsp;&lt;br&gt;2) для карточек: все то что не участвует в сортировке: добавляем в описание (НАПРИМЕР: размеры)&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="230" width="380" x="-140" y="-40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
